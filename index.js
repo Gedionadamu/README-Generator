@@ -74,7 +74,7 @@ const questions = () => {
 const init = () => {
   questions()
     // Use writeFileSync method to use promises instead of a callback function
-    .then((data) => fs.writeFileSync('Generated ReadMe.md', generateMarkdown(data)))
+    .then((data) => fs.writeFileSync('Generated  ReadMe.md', generateMarkdown(data)))
     .then(() => console.log('Successfully Generated ReadMe file!'))
     .catch((err) => console.error(err));
 
