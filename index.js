@@ -20,7 +20,7 @@ const questions = () => {
   {
     type: "input",
     name: "installation",
-    message: "How do you install your application?"
+    message: "How do you install your application/ dependencies?"
   },
   {
     type: "input",
@@ -34,7 +34,7 @@ const questions = () => {
     choices: [
       { name: "Apache", value: "Apache"},
       { name: "BSD", value: "BSD"},
-      { name: "Creative_Commons", value: "CC"},
+      { name: "Creative Commons", value: "Creative_Commons"},
       { name: "Eclipse", value: "Eclipse"},
       { name: "GNU", value: "GNU"},
       { name: "IBM", value: "IBM"},
@@ -51,7 +51,7 @@ const questions = () => {
   {
     type: "input",
     name: "tests",
-    message: "Please indicate how to test the project?"
+    message: "Please provide your test commands?"
   },
   {
     type: "input",
