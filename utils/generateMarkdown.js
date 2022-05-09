@@ -52,7 +52,7 @@ function renderLicenseLink(license) {
 function generateMarkdown(data) {
   // data should have a license badge, license link, license section
   // render functions are going to be used here
-  // you have to figure out why...
+  
   return `
 
   # ${data.title}

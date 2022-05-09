@@ -1,8 +1,6 @@
 ﻿# ReadMe Generator.
 
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
+ AREADME generator that can quickly create a professional README for a new project
 
 
 # How to use
@@ -20,9 +18,9 @@ SO THAT I can quickly create a professional README for a new project
 	THEN this is added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
 			
 
-# ScreenShot
+# Walkthrough Link
 
-
+https://www.youtube.com/watch?v=xiW5Cp3JTmI
 
 # Github.
 
